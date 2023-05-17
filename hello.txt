@@ -1,1 +1,2 @@
 Hello git and GitHub!
+Second line is created.
